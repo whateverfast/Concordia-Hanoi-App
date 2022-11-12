@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Concordia Hanoi App - PodCast</title>
+        <title>Concordia Hanoi App - PodCast Android</title>
         <item>
             <title>Version 1.0.30</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sat, 12 Nov 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=org.concordiahanoi.app" sparkle:version="1.15.0" sparkle:os="android" />
+        </item>
+    </channel>
+    <channel>
+        <title>Concordia Hanoi App - PodCast iOS</title>
+        <item>
+            <title>Version 1.0.30</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sat, 12 Nov 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/concordia-hanoi-app/id1624855921" sparkle:version="1.15.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
