@@ -3,15 +3,15 @@
     <channel>
         <title>Concordia Hanoi App - PodCast Android</title>
         <item>
-            <title>Version 1.0.30</title>
+            <title>Version 1.0.20</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sat, 12 Nov 2022 12:00:00 +0000</pubDate>
+            <pubDate>Sun, 30 Oct 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=org.concordiahanoi.app" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.0.30</title>
+            <title>Version 1.0.20</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sat, 12 Nov 2022 12:00:00 +0000</pubDate>
+            <pubDate>Sun, 30 Oct 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/concordia-hanoi-app/id1624855921" sparkle:version="1.15.0" sparkle:os="ios" />
         </item>
     </channel>
