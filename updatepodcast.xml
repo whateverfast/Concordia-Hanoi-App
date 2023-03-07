@@ -3,19 +3,19 @@
     <channel>
         <title>Concordia Hanoi App - PodCast Android</title>
         <item>
-            <title>Version 1.0.29</title>
+            <title>Version 1.0.30</title>
             <description>Minor updates and improvements.</description>
-            <sparkle:version>1.0.29</sparkle:version>
+            <sparkle:version>1.0.30</sparkle:version>
             <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
-            <pubDate>Fri, 17 Feb 2023 12:00:00 +0000</pubDate>
+            <pubDate>Mon, 16 Mar 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=org.concordiahanoi.app" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.0.29</title>
+            <title>Version 1.0.30</title>
             <description>Minor updates and improvements.</description>
-            <sparkle:version>1.0.29</sparkle:version>
-            <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
-            <pubDate>Fri, 17 Feb 2023 12:00:00 +0000</pubDate>
+            <sparkle:version>1.0.30</sparkle:version>
+            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
+            <pubDate>Mon, 16 Mar 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/concordia-hanoi-app/id1624855921" sparkle:version="1.15.0" sparkle:os="ios" />
         </item>
     </channel>
